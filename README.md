@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Seung’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thorai219&show_icons=true&count_private=true)
-<a href=”https://www.linkedin.com/in/seungterrylee/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href=”https://www.linkedin.com/in/seungterrylee/">!
+[alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
