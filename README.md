@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+![Seung’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thorai219&show_icons=true&count_private=true)
 <!--
 **thorai219/thorai219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Seung’ GitHub stats](https://github-readme-stats.vercel.app/api?username=thorai219&show_icons=true&count_private=true)
-<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+- 🔭 I’m currently working on a react-typescript app
